@@ -1,0 +1,85 @@
+/* Project */
+
+#project {
+	background-color: rgb(240, 240, 240);
+
+	z-index:8;
+	position: relative;
+	top: 3.16em;
+	width: 100vw;
+	height: 180vw;
+}
+
+/*.project-word{
+	text-align: center;
+	position: relative;
+	top: 28vh;
+}
+
+.project-name{
+	font-size: 50px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+}
+
+.project-cont{
+	font-size: 20px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+
+	display: inline-block;
+	padding: 0.9rem 1.5rem 0.6rem 1.5rem;
+	margin-top: 0.8em;
+	vertical-align: middle;
+}
+*/
+.project-left{
+	padding-top: 1vh;
+	padding-left: 14vw;
+	padding-right: 14vw;
+	position: relative;
+	top: 3vh;
+}
+
+.project-right{
+	padding-top: 1vh;
+	padding-left: 14vw;
+	padding-right: 14vw;
+	position: relative;
+	top: 3vh;
+}
+
+.project-item{
+	text-align: center;
+
+	font-size: 2.1vw;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	line-height: 5vw;
+	color: rgb(60, 60, 60);
+}
+
+.project-subt{
+	text-align: center;
+
+	font-size: 5vw;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	line-height: 5vw;
+	color: rgb(60, 60, 60);
+}
+
+.project-left .project-subt{
+	padding-left: 0.5em;
+}
+
+.project-right .project-subt{
+	padding-right: 0.5em;
+}
+
+.project-imge{
+	width: 36vw;
+	height: auto;
+}
