@@ -83,3 +83,9 @@
 	width: 36vw;
 	height: auto;
 }
+
+.member-imge{
+	width: 36vw;
+	height: auto;
+    border-radius:50%;
+}
